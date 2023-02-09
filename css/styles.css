@@ -139,6 +139,9 @@ p {
         position: static;
         transform: rotate(0);
     }
+    .nav-link {
+        font-size: 2.5rem;
+    }
 }
 /* Call to Action Section */
 #cta {
